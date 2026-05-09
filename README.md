@@ -76,3 +76,11 @@ screenshots/
 
 output/
 │── categorized_threats.csv
+---
+
+## How to Run
+
+Run the main prototype script:
+
+```bash
+python scripts/main.py
