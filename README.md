@@ -5,8 +5,6 @@ This project is a lightweight Python-based prototype designed to organize and ca
 
 The project was developed as part of the CYBR 472 semester project and focuses on AI security concepts, threat modeling, and defensive analysis rather than production-level automation.
 
----
-
 ## Project Goals
 The main goal of this project is to collect and organize AI-related threat intelligence in a simple and understandable format. The system helps distinguish between:
 
@@ -15,8 +13,6 @@ The main goal of this project is to collect and organize AI-related threat intel
 - Active Exploitation
 
 This categorization helps defenders better understand the maturity and severity of AI-related threats.
-
----
 
 ## Data Sources
 The prototype references publicly available threat intelligence and research sources including:
@@ -27,8 +23,6 @@ The prototype references publicly available threat intelligence and research sou
 - Security Research Articles
 - AI Security Frameworks
 
----
-
 ## Technologies Used
 - Python
 - JSON
@@ -36,16 +30,12 @@ The prototype references publicly available threat intelligence and research sou
 - Google Colab
 - GitHub
 
----
-
 ## Features
 - AI threat categorization
 - Structured threat organization
 - Simple dataset generation
 - Basic table-based output
 - Lightweight prototype design
-
----
 
 ## Threat Categories
 
@@ -57,8 +47,6 @@ Threats validated through proof-of-concept demonstrations, research experiments,
 
 ### Active Exploitation
 Threats observed or reported in real-world attacks, incident reports, or security advisories.
-
----
 
 ## Repository Structure
 
@@ -76,11 +64,3 @@ screenshots/
 
 output/
 │── categorized_threats.csv
----
-
-## How to Run
-
-Run the main prototype script:
-
-```bash
-python scripts/main.py
