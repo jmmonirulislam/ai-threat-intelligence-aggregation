@@ -1,5 +1,3 @@
-# ai-threat-intelligence-aggregation
-A lightweight Python-based prototype for aggregating and categorizing AI-related cybersecurity threats using sources such as MITRE ATLAS, CISA advisories, and academic research.
 # AI Threat Intelligence Aggregation and Categorization for Securing AI Systems
 
 ## Overview
@@ -62,10 +60,19 @@ Threats observed or reported in real-world attacks, incident reports, or securit
 
 ---
 
-## Project Structure
+## Repository Structure
 
 ```bash
-data/                 # Sample threat datasets
-scripts/              # Python scripts
-output/               # Generated outputs
-screenshots/          # Project screenshots
+data/
+│── sample_threats.json
+
+scripts/
+│── main.py
+│── categorize_threats.py
+│── generate_table.py
+
+screenshots/
+│── output_example.jpg
+
+output/
+│── categorized_threats.csv
