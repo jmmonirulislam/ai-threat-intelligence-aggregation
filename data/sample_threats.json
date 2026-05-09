@@ -2,16 +2,25 @@
   {
     "threat": "Prompt Injection",
     "category": "Demonstrated",
-    "source": "MITRE ATLAS"
+    "source": "MITRE ATLAS",
+    "affected_component": "LLM Input Handling"
   },
   {
     "threat": "Training Data Poisoning",
     "category": "Hypothetical",
-    "source": "Research Literature"
+    "source": "Research Literature",
+    "affected_component": "Training Pipeline"
   },
   {
     "threat": "Model Evasion",
     "category": "Active Exploitation",
-    "source": "CISA"
+    "source": "CISA Advisory",
+    "affected_component": "AI Detection Systems"
+  },
+  {
+    "threat": "Supply Chain Compromise",
+    "category": "Demonstrated",
+    "source": "Security Research",
+    "affected_component": "Third-Party AI Models"
   }
 ]
