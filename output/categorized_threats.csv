@@ -1,0 +1,5 @@
+Threat,Category,Source
+Prompt Injection,Demonstrated,MITRE ATLAS
+Training Data Poisoning,Hypothetical,Research Literature
+Model Evasion,Active Exploitation,CISA Advisory
+Supply Chain Compromise,Demonstrated,Security Research
