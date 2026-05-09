@@ -64,9 +64,32 @@ screenshots/
 
 output/
 │── categorized_threats.csv
+```
+
 ## How to Run
 
 Run the main prototype script:
 
 ```bash
 python scripts/main.py
+```
+
+Run the table generation script:
+
+```bash
+python scripts/generate_table.py
+```
+
+## Future Improvements
+- Automated threat ingestion from MITRE ATLAS
+- Real-time advisory updates
+- Dashboard visualization
+- Improved threat classification logic
+- Integration with additional AI security datasets
+
+## Educational Purpose
+This project was created for academic and research purposes as part of the CYBR 472 semester project. The repository demonstrates a simplified prototype for organizing and categorizing AI-related cybersecurity threats.
+
+## Author
+Monirul Islam  
+California State University
