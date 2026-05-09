@@ -1,0 +1,17 @@
+[
+  {
+    "threat": "Prompt Injection",
+    "category": "Demonstrated",
+    "source": "MITRE ATLAS"
+  },
+  {
+    "threat": "Training Data Poisoning",
+    "category": "Hypothetical",
+    "source": "Research Literature"
+  },
+  {
+    "threat": "Model Evasion",
+    "category": "Active Exploitation",
+    "source": "CISA"
+  }
+]
