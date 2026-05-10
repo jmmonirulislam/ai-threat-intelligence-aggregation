@@ -91,5 +91,5 @@ python scripts/generate_table.py
 This project was created for academic and research purposes as part of the CYBR 472 semester project. The repository demonstrates a simplified prototype for organizing and categorizing AI-related cybersecurity threats.
 
 ## Author
-Monirul Islam  
+Monirul Islam Juamadar 
 California State University
