@@ -22,5 +22,41 @@
     "category": "Demonstrated",
     "source": "Security Research",
     "affected_component": "Third-Party AI Models"
+  },
+  {
+    "threat": "Model Theft",
+    "category": "Demonstrated",
+    "source": "Academic Research",
+    "affected_component": "Deployed AI Models"
+  },
+  {
+    "threat": "Adversarial Examples",
+    "category": "Demonstrated",
+    "source": "MITRE ATLAS",
+    "affected_component": "Computer Vision Models"
+  },
+  {
+    "threat": "Membership Inference",
+    "category": "Hypothetical",
+    "source": "Research Literature",
+    "affected_component": "Training Data Privacy"
+  },
+  {
+    "threat": "Hallucination Abuse",
+    "category": "Active Exploitation",
+    "source": "Security Research Blogs",
+    "affected_component": "Generative AI Systems"
+  },
+  {
+    "threat": "Jailbreaking",
+    "category": "Demonstrated",
+    "source": "OWASP LLM Top 10",
+    "affected_component": "Large Language Models"
+  },
+  {
+    "threat": "Data Leakage",
+    "category": "Active Exploitation",
+    "source": "CISA Advisory",
+    "affected_component": "AI Chat Systems"
   }
 ]
