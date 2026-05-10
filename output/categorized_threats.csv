@@ -3,3 +3,9 @@ Prompt Injection,Demonstrated,MITRE ATLAS
 Training Data Poisoning,Hypothetical,Research Literature
 Model Evasion,Active Exploitation,CISA Advisory
 Supply Chain Compromise,Demonstrated,Security Research
+Model Theft,Demonstrated,Academic Research
+Adversarial Examples,Demonstrated,MITRE ATLAS
+Membership Inference,Hypothetical,Research Literature
+Hallucination Abuse,Active Exploitation,Security Research Blogs
+Jailbreaking,Demonstrated,OWASP LLM Top 10
+Data Leakage,Active Exploitation,CISA Advisory
