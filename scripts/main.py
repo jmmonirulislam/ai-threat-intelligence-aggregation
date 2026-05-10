@@ -2,22 +2,7 @@ import json
 
 print("AI Threat Intelligence Aggregation Prototype")
 
-sample_threats = [
-    {
-        "name": "Prompt Injection",
-        "category": "Demonstrated",
-        "source": "MITRE ATLAS"
-    },
-    {
-        "name": "Training Data Poisoning",
-        "category": "Hypothetical",
-        "source": "Research Literature"
-    },
-    {
-        "name": "Model Evasion",
-        "category": "Active Exploitation",
-        "source": "CISA Advisory"
-    }
-]
+with open("../data/sample_threats.json", "r") as file:
+    threats = json.load(file)
 
-print(json.dumps(sample_threats, indent=4))
+print(json.dumps(threats, indent=4))
